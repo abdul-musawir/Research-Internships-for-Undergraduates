@@ -127,7 +127,7 @@ MULTIPLE COUNTRIES
 
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
   * [Amgen Scholars Program](https://amgenscholars.com/)
-  * [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
+  * [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job) (Not available)
   * [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 
 
